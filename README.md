@@ -7,6 +7,7 @@ To experience the app on your device without setting up a development environmen
 
 App Screenshots
 Here's a look at what you can expect from our React Native weather application:
+
 ![image](https://github.com/NishitAmin/Weather_App/assets/53053356/a8cc8f2f-0c7f-4e76-9a8f-5193d51f5fce)
 
 Weather Display
