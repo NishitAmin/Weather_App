@@ -1,11 +1,19 @@
-# Sample Snack app
+Getting Started with the Weather App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This project is designed to be easy to run and test using Expo. Below are some resources to help you get started:
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+View the Project on Expo
+To experience the app on your device without setting up a development environment, visit my Expo project - https://snack.expo.dev/@nishitamin/weather-app
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+App Screenshots
+Here's a look at what you can expect from our React Native weather application:
+![image](https://github.com/NishitAmin/Weather_App/assets/53053356/a8cc8f2f-0c7f-4e76-9a8f-5193d51f5fce)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Weather Display
+Displays weather information after querying a city.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+How to Use the App
+Open the App.js file to view the main code.
+Enter the city name in the provided input field.
+The app will fetch and display the current weather conditions of the entered city.
+For developers looking to understand the internals or contribute, you can download the project and start exploring with Expo CLI.
